@@ -3,7 +3,8 @@
   "description": "Blank Process",
   "main": "Main.xaml",
   "dependencies": {
-    "UiPath.Excel.Activities": "[2.16.3]",
+    "BalaReva.Excel.Activities": "[2021.1.0]",
+    "UiPath.Excel.Activities": "[2.22.3]",
     "UiPath.Mail.Activities": "[1.20.3]",
     "UiPath.System.Activities": "[22.10.6]",
     "UiPath.Testing.Activities": "[22.10.4]",
@@ -48,7 +49,7 @@
   "entryPoints": [
     {
       "filePath": "Main.xaml",
-      "uniqueId": "dba5dc3e-63a4-44fa-b7c6-2da3406147d8",
+      "uniqueId": "356140c1-b539-46d8-9024-a6f102a2aa92",
       "input": [],
       "output": []
     }
